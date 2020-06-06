@@ -235,3 +235,5 @@ dmypy.json
 .pyre/
 
 # End of https://www.toptal.com/developers/gitignore/api/osx,python,pycharm
+client_secrets.json
+
